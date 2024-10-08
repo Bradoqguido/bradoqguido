@@ -1,53 +1,45 @@
-# Hello there! 👋 I'm [Your Name]
+# Hi, I'm Jeferson Guido 👋
 
-I'm a passionate software engineer with experience in building web and mobile applications using **TypeScript**, **Python**, **JavaScript**, **React Native**, **Angular**, and **PostgreSQL**.
+I'm a software engineer specializing in **full-stack development** and **mobile applications**. With a strong focus on scalable, efficient solutions, I work primarily with **TypeScript**, **Expo**, **NestJS**, and **PostgreSQL**. Passionate about problem-solving, I enjoy tackling complex challenges to deliver clean, robust software.
 
-## 🌱 About Me
-- 💻 Currently working on an **inventory system** using **ReactJS** with **Vite** and **SQLite**.
-- 🎮 Building a **roguelike survival game** with RPG elements.
-- 📚 Teaching beginner-level web development focusing on **HTML** and **CSS**.
+## 🛠 Core Skills
+- **Languages**: TypeScript, Python, JavaScript, Java, C#
+- **Frameworks**: ReactJS, Expo/React Native, Angular, NestJS
+- **Databases**: PostgreSQL, SQLite, MongoDB
+- **DevOps & Tools**: Docker, Git, Firebase, Supabase
 
-## 🔧 Technologies & Tools
-- **Languages**: TypeScript, Python, JavaScript, Java
-- **Frameworks**: React, Angular, React Native, Expo
-- **Databases**: PostgreSQL, SQLite, Firebase
-- **Tools**: Git, Docker, NetBeans, VS Code
+## Key Projects
 
-## 🚀 Projects
-### 1. [LocknSafe](https://github.com/bradoqguido/LocknSafe)
-A password storage app that securely manages user credentials.
+### 1. **[Neural Network To Voice Classification](https://github.com/Bradoqguido/Neural_Network_To_Voice_Classification)**
+#### [Article Download](https://raw.githubusercontent.com/Bradoqguido/Neural_Network_To_Voice_Classification/refs/heads/main/Artigo%20-%20PROCESSAMENTO%20DE%20LINGUAGEM%20NATURAL%20UTILIZANDO%20REDES%20NEURAIS%20PARA%20IDENTIFICAR%20INTERLOCUTORES%20EM%20ARQUIVOS%20DE%20A%CC%81UDIO.pdf)
+Developed a neural network capable of identifying speakers in audio files, applying advanced **NLP** and **forensic phonetics**. Built using a **Sequential Model** with **Categorical Crossentropy**, this project explores the intersection of AI and legal tech, offering significant improvements in suspect identification from audio.
 
-### 2. [Inventory System](https://github.com/bradoqguido/inventory-system)
-An inventory management system built with ReactJS, TypeScript, and SQLite.
+- Applied **machine learning** techniques to classify interlocutors.
+- Potential use in forensic phonetics and legal investigations.
+- Improved productivity in detecting multiple speakers from audio files.
 
-### 3. [Roguelike Survival Game](https://github.com/bradoqguido/roguelike-game)
-A game focused on survival mechanics with hack-and-slash elements.
+### 2. **[LocknSafe](https://github.com/Bradoqguido/locknsafe)**
+A password management app built with **Expo**, **React Native**, and **Firebase**. Focused on delivering a secure and intuitive user experience, LocknSafe provides strong encryption and customizable password generation.
+
+- Technologies: **Expo**, **Firebase**, **React Native Paper**.
+- Implemented user authentication and secure password storage.
 
 ## 💡 Teaching Experience
-- **Web Development Classes**: Teaching HTML, CSS, and JavaScript concepts to beginners.
-- **Software Design Project**: Developing lesson plans for software design and architecture.
+I enjoy sharing my knowledge with others through teaching:
 
-## 📫 Get in Touch
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Web Development**: Led classes covering HTML, CSS, JavaScript, and ReactJS from basic to advanced levels.
+- **Software Design Project**: Instructed students in software design principles and project architecture.
+- **Java**: Taught foundational to advanced Java programming concepts.
+- **PostgreSQL**: Provided guidance on PostgreSQL usage, from queries to advanced database management.
+
+## 📫 Let's Connect
+I'm always open to discussing new opportunities, collaborations, or sharing knowledge! Feel free to reach out:
+
+- **Email**: [jefersoneduardoguido@gmail.com](mailto:jefersoneduardoguido@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jeferson-e-g)
 
 ## 📊 GitHub Stats
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bradoqguido&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradoqguido&layout=compact&theme=radical)
-
-<!--
-**Bradoqguido/bradoqguido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bradoqguido&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bradoqguido&theme=radical)
