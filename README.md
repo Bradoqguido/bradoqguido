@@ -63,7 +63,7 @@ I teach about:
 - Developed ERP modules and built a service desk extension integrated with **Azure DevOps**.
 
 ## 🎓 Education
-- **MBA Full Cycle Architecture** (2023 - Ongoing)
+- **MBA Financial Management** (2024 - Ongoing)
 - **Bachelor's in Software Engineering**, Assis Gurgacz University (2019 - 2022)
 - **Technical Degree in Information Technology**, Federal Institute of Paraná (2013 - 2017)
 
