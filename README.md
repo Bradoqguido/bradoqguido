@@ -25,7 +25,7 @@ A password management app built with **Expo**, **React Native**, and **Firebase*
 - Technologies: **Expo**, **Firebase**, **React Native Paper**.
 - Implemented user authentication and secure password storage.
 
-### 3. **[ShoowMe Multiplatform System](https://github.com/ShoowMeOficial)**
+### 3. **[ShoowMe o Hub da Musica](https://github.com/ShoowMeOficial)**
 Currently working on implementing and deploying a **multiplatform system (Web, Android, iOS, Desktop)** using **Expo** with **TypeScript** and **Supabase**. This system integrates real-time notifications through **NTFY** and supports cross-platform synchronization.
 
 ### 4. **[Sobcontrole Rastreadores](https://github.com/SobcontroleRastreamento)**
