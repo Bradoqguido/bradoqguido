@@ -7,6 +7,7 @@ I'm a software engineer specializing in **full-stack development** and **mobile 
 - **Frameworks**: ReactJS, Expo/React Native, Angular, NestJS
 - **Databases**: PostgreSQL, SQLite, MongoDB
 - **DevOps & Tools**: Docker, Git, Firebase, Supabase
+- **Cloud Architecture**: AWS, Docker, Google Cloud, Railway, PrismaORM
 
 ## Key Projects
 
@@ -24,13 +25,47 @@ A password management app built with **Expo**, **React Native**, and **Firebase*
 - Technologies: **Expo**, **Firebase**, **React Native Paper**.
 - Implemented user authentication and secure password storage.
 
-## 💡 Teaching Experience
-I enjoy sharing my knowledge with others through teaching:
+### 3. **[ShoowMe Multiplatform System](https://github.com/ShoowMeOficial)**
+Currently working on implementing and deploying a **multiplatform system (Web, Android, iOS, Desktop)** using **Expo** with **TypeScript** and **Supabase**. This system integrates real-time notifications through **NTFY** and supports cross-platform synchronization.
 
+### 4. **[Sobcontrole Rastreadores](https://github.com/SobcontroleRastreamento)**
+Developed a new integration method for GPS trackers using **ReactJS**, **PostgreSQL**, **Prisma ORM**, and **NestJS**. This project involved integrating new trackers from Queclink, Teltonika, Suntech, and Concox, and redesigning microservices to handle data normalization and tracker communication.
+
+## 💼 Professional Experience
+
+### Centro Univesitário FAG (May 2024 - on going)
+I teach about:
 - **Web Development**: Led classes covering HTML, CSS, JavaScript, and ReactJS from basic to advanced levels.
 - **Software Design Project**: Instructed students in software design principles and project architecture.
 - **Java**: Taught foundational to advanced Java programming concepts.
 - **PostgreSQL**: Provided guidance on PostgreSQL usage, from queries to advanced database management.
+
+### Startup ShoowMe (May 2024 - on going)
+- Lead development of a cross-platform system (Web, Android, iOS) using **Expo** and **Supabase**.
+- Integrated real-time notifications using **NTFY** for seamless user experience across platforms.
+
+### Startup Poupave (Mar 2022 - on going)
+- Developed IoT monitoring and control app using **ReactJS**, **NestJS**, and **PostgreSQL**.
+
+### Sobcontrole Rastreadores (Jul 2022 - Feb 2024)
+- Implemented GPS tracker integration using **ReactJS**, **NestJS**, and **PostgreSQL**.
+- Rebuilt microservices architecture to improve data processing efficiency for trackers.
+- Integrated new trackers from **Queclink**, **Teltonika**, **Suntech**, and **Concox**.
+
+### Coopavel (Apr 2020 - Jul 2022)
+- Maintained ERP modules using **C#** and **Delphi 6**, and managed a large-scale procurement system.
+- Developed BPMN diagrams for process automation using **ReactJS**.
+
+### HackathonLine (Jan 2020 - Apr 2020)
+- Built a platform for hackathon management using **Angular** and **Firebase** with responsive UI.
+
+### Linx SetaDigital (Aug 2018 - Jan 2020)
+- Developed ERP modules and built a service desk extension integrated with **Azure DevOps**.
+
+## 🎓 Education
+- **MBA Full Cycle Architecture** (2023 - Ongoing)
+- **Bachelor's in Software Engineering**, Assis Gurgacz University (2019 - 2022)
+- **Technical Degree in Information Technology**, Federal Institute of Paraná (2013 - 2017)
 
 ## 📫 Let's Connect
 I'm always open to discussing new opportunities, collaborations, or sharing knowledge! Feel free to reach out:
@@ -43,3 +78,7 @@ I'm always open to discussing new opportunities, collaborations, or sharing know
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bradoqguido&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bradoqguido&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bradoqguido&theme=radical)
+
+
+Apresentação do projeto de gestão de inventário
+Desenvolvimento do projeto de gestão de inventário
