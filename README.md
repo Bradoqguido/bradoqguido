@@ -12,7 +12,7 @@ I'm a software engineer specializing in **full-stack development** and **mobile 
 ## Key Projects
 
 ### 1. **[Neural Network To Voice Classification](https://github.com/Bradoqguido/Neural_Network_To_Voice_Classification)**
-#### [Article Download](https://raw.githubusercontent.com/Bradoqguido/Neural_Network_To_Voice_Classification/refs/heads/main/Artigo%20-%20PROCESSAMENTO%20DE%20LINGUAGEM%20NATURAL%20UTILIZANDO%20REDES%20NEURAIS%20PARA%20IDENTIFICAR%20INTERLOCUTORES%20EM%20ARQUIVOS%20DE%20A%CC%81UDIO.pdf)
+#### [Article](https://github.com/Bradoqguido/Neural_Network_To_Voice_Classification/blob/ec0f6bf1dd2c316a2634e90770e0bfa7eefe06ef/Artigo%20-%20PROCESSAMENTO%20DE%20LINGUAGEM%20NATURAL%20UTILIZANDO%20REDES%20NEURAIS%20PARA%20IDENTIFICAR%20INTERLOCUTORES%20EM%20ARQUIVOS%20DE%20A%CC%81UDIO.pdf)
 Developed a neural network capable of identifying speakers in audio files, applying advanced **NLP** and **forensic phonetics**. Built using a **Sequential Model** with **Categorical Crossentropy**, this project explores the intersection of AI and legal tech, offering significant improvements in suspect identification from audio.
 
 - Applied **machine learning** techniques to classify interlocutors.
@@ -79,6 +79,3 @@ I'm always open to discussing new opportunities, collaborations, or sharing know
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bradoqguido&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bradoqguido&theme=radical)
 
-
-Apresentação do projeto de gestão de inventário
-Desenvolvimento do projeto de gestão de inventário
