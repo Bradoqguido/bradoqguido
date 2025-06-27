@@ -1,6 +1,19 @@
 # Hi, I'm Jeferson Guido 👋
 
-I'm a software engineer specializing in **full-stack development** and **mobile applications**. With a strong focus on scalable, efficient solutions, I work primarily with **TypeScript**, **Expo**, **NestJS**, and **PostgreSQL**. Passionate about problem-solving, I enjoy tackling complex challenges to deliver clean, robust software.
+👨‍💻 Software Engineer | Fullstack Developer | Researcher
+🚀 Main stack: TypeScript, React, Node.js, PostgreSQL, Expo, Supabase
+🔬 MSc in progress – interdisciplinary project in mechatronics and physiotherapy
+⚙️ Exploring real-time systems, IoT, cloud infrastructure, and interactive dashboards
+
+Driven by projects that connect technology to real-world impact. On this GitHub profile, you’ll find everything from real-time vehicle tracking systems and MQTT automations to custom management tools for health, mobility, and event industries.
+
+Always learning, sharing, and building solutions that are clean, performant, and well-documented.
+
+## 📫 Let's Connect
+I'm always open to discussing new opportunities, collaborations, or sharing knowledge! Feel free to reach out:
+
+- **Email**: [jefersoneduardoguido@gmail.com](mailto:jefersoneduardoguido@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jeferson-e-g)
 
 ## 🛠 Core Skills
 - **Languages**: TypeScript, Python, JavaScript, Java, C#
@@ -63,15 +76,10 @@ I teach about:
 - Developed ERP modules and built a service desk extension integrated with **Azure DevOps**.
 
 ## 🎓 Education
-- **MBA Financial Management** (2024 - Ongoing)
+- **MBA Financial Management** (2024 - 2025)
 - **Bachelor's in Software Engineering**, Assis Gurgacz University (2019 - 2022)
-- **Technical Degree in Information Technology**, Federal Institute of Paraná (2013 - 2017)
+- **Technical Degree in Technology of Information**, Federal Institute of Paraná (2013 - 2017)
 
-## 📫 Let's Connect
-I'm always open to discussing new opportunities, collaborations, or sharing knowledge! Feel free to reach out:
-
-- **Email**: [jefersoneduardoguido@gmail.com](mailto:jefersoneduardoguido@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jeferson-e-g)
 
 ## 📊 GitHub Stats
 
