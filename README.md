@@ -1,8 +1,11 @@
 # Hi, I'm Jeferson Guido 👋
 
 👨‍💻 Software Engineer | Fullstack Developer | Researcher
+
 🚀 Main stack: TypeScript, React, Node.js, PostgreSQL, Expo, Supabase
+
 🔬 MSc in progress – interdisciplinary project in mechatronics and physiotherapy
+
 ⚙️ Exploring real-time systems, IoT, cloud infrastructure, and interactive dashboards
 
 Driven by projects that connect technology to real-world impact. On this GitHub profile, you’ll find everything from real-time vehicle tracking systems and MQTT automations to custom management tools for health, mobility, and event industries.
